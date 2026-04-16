@@ -1,4 +1,4 @@
-# Day 02 — Tip Calculator 💰
+# Day 02 — Tip Calculator
 
 ## What I built
 
