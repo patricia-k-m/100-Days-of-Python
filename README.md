@@ -31,6 +31,7 @@ and reflected on.
 | [Day 01](./Day-01) | Band Name Generator | Variables, string concatenation, input() |
 | [Day 02](./Day-02) | Tip Calculator | Data types, f-strings, type conversion |
 | [Day 03](./Day-03) | Treasure Island | Conditionals, if/elif/else |
+| [Day 04](./Day-04) | Rock Paper Scissors | Random module, lists, indexing, IndexError |
 
 *(Updated as I progress)*
 
