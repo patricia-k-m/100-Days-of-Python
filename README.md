@@ -32,6 +32,7 @@ and reflected on.
 | [Day 02](./Day-02) | Tip Calculator | Data types, f-strings, type conversion |
 | [Day 03](./Day-03) | Treasure Island | Conditionals, if/elif/else |
 | [Day 04](./Day-04) | Rock Paper Scissors | Random module, lists, indexing, IndexError |
+| [Day 05](./Day-05) | Password Generator | For loops, random.choice, random.shuffle, list.append |
 
 *(Updated as I progress)*
 
