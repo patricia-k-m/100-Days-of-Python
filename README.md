@@ -33,6 +33,7 @@ and reflected on.
 | [Day 03](./Day-03) | Treasure Island | Conditionals, if/elif/else |
 | [Day 04](./Day-04) | Rock Paper Scissors | Random module, lists, indexing, IndexError |
 | [Day 05](./Day-05) | Password Generator | For loops, random.choice, random.shuffle, list.append |
+| [Day 06](./Day-06) | Reeborg's World | Functions, while loops, nested loops, conditionals |
 
 *(Updated as I progress)*
 
