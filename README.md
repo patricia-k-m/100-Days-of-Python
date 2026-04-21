@@ -34,6 +34,7 @@ and reflected on.
 | [Day 04](./Day-04) | Rock Paper Scissors | Random module, lists, indexing, IndexError |
 | [Day 05](./Day-05) | Password Generator | For loops, random.choice, random.shuffle, list.append |
 | [Day 06](./Day-06) | Reeborg's World | Functions, while loops, nested loops, conditionals |
+| [Day 07](./Day-07) | Hangman | Imports, while loops, string manipulation, lists, game loop |
 
 *(Updated as I progress)*
 
