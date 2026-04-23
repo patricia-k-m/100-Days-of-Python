@@ -35,6 +35,7 @@ and reflected on.
 | [Day 05](./Day-05) | Password Generator | For loops, random.choice, random.shuffle, list.append |
 | [Day 06](./Day-06) | Reeborg's World | Functions, while loops, nested loops, conditionals |
 | [Day 07](./Day-07) | Hangman | Imports, while loops, string manipulation, lists, game loop |
+| [Day 08](./Day-08) | Caesar Cipher | Functions, modulo operator, list.index(), while loop |
 
 *(Updated as I progress)*
 
