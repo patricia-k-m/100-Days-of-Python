@@ -36,6 +36,7 @@ and reflected on.
 | [Day 06](./Day-06) | Reeborg's World | Functions, while loops, nested loops, conditionals |
 | [Day 07](./Day-07) | Hangman | Imports, while loops, string manipulation, lists, game loop |
 | [Day 08](./Day-08) | Caesar Cipher | Functions, modulo operator, list.index(), while loop |
+| [Day 09](./Day-09) | Secret Auction | Dictionaries, iteration, functions, boolean flags |
 
 *(Updated as I progress)*
 
