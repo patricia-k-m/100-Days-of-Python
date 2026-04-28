@@ -37,6 +37,7 @@ and reflected on.
 | [Day 07](./Day-07) | Hangman | Imports, while loops, string manipulation, lists, game loop |
 | [Day 08](./Day-08) | Caesar Cipher | Functions, modulo operator, list.index(), while loop |
 | [Day 09](./Day-09) | Secret Auction | Dictionaries, iteration, functions, boolean flags |
+| [Day 10](./Day-10) | Calculator | Functions as values, dictionary of functions, recursion |
 
 *(Updated as I progress)*
 
