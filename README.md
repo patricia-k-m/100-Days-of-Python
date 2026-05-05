@@ -38,6 +38,7 @@ and reflected on.
 | [Day 08](./Day-08) | Caesar Cipher | Functions, modulo operator, list.index(), while loop |
 | [Day 09](./Day-09) | Secret Auction | Dictionaries, iteration, functions, boolean flags |
 | [Day 10](./Day-10) | Calculator | Functions as values, dictionary of functions, recursion |
+| [Day 11](./Day-11) | Blackjack | Functions, return values, sum/len, list methods, conditionals |
 
 *(Updated as I progress)*
 
