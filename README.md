@@ -39,6 +39,7 @@ and reflected on.
 | [Day 09](./Day-09) | Secret Auction | Dictionaries, iteration, functions, boolean flags |
 | [Day 10](./Day-10) | Calculator | Functions as values, dictionary of functions, recursion |
 | [Day 11](./Day-11) | Blackjack | Functions, return values, sum/len, list methods, conditionals |
+| [Day 12](./Day-12) | Number Guessing Game | Constants, functions, return values, randint, while loop |
 
 *(Updated as I progress)*
 
