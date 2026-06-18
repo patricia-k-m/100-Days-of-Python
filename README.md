@@ -40,6 +40,7 @@ and reflected on.
 | [Day 10](./Day-10) | Calculator | Functions as values, dictionary of functions, recursion |
 | [Day 11](./Day-11) | Blackjack | Functions, return values, sum/len, list methods, conditionals |
 | [Day 12](./Day-12) | Number Guessing Game | Constants, functions, return values, randint, while loop |
+| [Day 13](./Day-13) | Debugging Exercises | SyntaxError, TypeError, logic errors, elif vs if |
 
 *(Updated as I progress)*
 
